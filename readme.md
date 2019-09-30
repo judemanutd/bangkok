@@ -60,6 +60,7 @@ Many drivers will refuse to use the meter if during rush hour or if it’s raini
 
 ## Food
 Please contribute content here.
+[Pagoda Chinese Restaurant](https://bangkokmarriottmarquisqueenspark.com/dining/pagoda-chinese-restaurant/)
 
 ## License
 
